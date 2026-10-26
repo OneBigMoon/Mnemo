@@ -1,0 +1,13 @@
+[package]
+name = "mnemo-core"
+version = "0.1.1"
+edition = "2021"
+description = "Portable CMS and RSS/Atom parsing core for Mnemo"
+license = "MIT"
+
+[dependencies]
+quick-xml = "0.36"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+scrypt = { version = "0.11", default-features = false }
+subtle = { version = "2.6", default-features = false }

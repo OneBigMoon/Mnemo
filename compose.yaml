@@ -1,0 +1,26 @@
+services:
+  mnemo:
+    build: .
+    restart: unless-stopped
+    depends_on:
+      - pansou
+    ports:
+      # 新名优先、旧名回退：已有 .env 里的 MORI_BIND_ADDRESS 仍然生效。
+      - "${MNEMO_BIND_ADDRESS:-${MORI_BIND_ADDRESS:-127.0.0.1}}:4180:4180"
+    environment:
+      MNEMO_SETUP_TOKEN: "${MNEMO_SETUP_TOKEN:-${MORI_SETUP_TOKEN:?Set a private first-run setup token in .env}}"
+      MNEMO_COOKIE_SECURE: "${MNEMO_COOKIE_SECURE:-${MORI_COOKIE_SECURE:-0}}"
+      MNEMO_PUBLIC_ORIGIN: "${MNEMO_PUBLIC_ORIGIN:-${MORI_PUBLIC_ORIGIN:-}}"
+      MNEMO_PANSOU_URL: "http://pansou:8888"
+    volumes:
+      # 卷名沿用 mori-data：改名不迁移数据卷，已有媒体库与密钥继续可用。
+      - mori-data:/data
+      - "${MNEMO_DOWNLOAD_PATH:-${MORI_DOWNLOAD_PATH:-./downloads}}:/downloads"
+  pansou:
+    image: ghcr.io/fish2018/pansou@sha256:d371fe5caa87794414dd54cda063fcfc456d5013e18b65dbf1f6ca17f6299492
+    restart: unless-stopped
+    cpus: 1
+    mem_limit: 512m
+    pids_limit: 256
+volumes:
+  mori-data:

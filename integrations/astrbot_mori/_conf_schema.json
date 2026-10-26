@@ -1,0 +1,8 @@
+{
+  "mori_url": {"description": "Mori 服务地址", "type": "string", "default": "http://127.0.0.1:4180", "hint": "AstrBot 所在机器可访问的 Mori 地址；远程连接使用 HTTPS。"},
+  "bridge_secret": {"description": "Mori 桥接签名密钥", "type": "string", "default": "", "secret": true, "hint": "与 Mori 渠道桥接设置一致。仅配置界面遮罩，不代表磁盘加密。"},
+  "platform": {"description": "平台归类", "type": "string", "default": "auto", "options": ["auto", "qq", "wechat", "feishu"], "hint": "自动识别官方适配器；通用适配器可由管理员明确指定平台。"},
+  "allowed_users": {"description": "允许的用户", "type": "list", "default": [], "hint": "必须与会话白名单同时命中，例如 qq:123456 或 feishu:用户ID；空列表拒绝所有用户。"},
+  "allowed_sessions": {"description": "允许的会话 UMO", "type": "list", "default": [], "hint": "填写 AstrBot /sid 返回的完整 unified_msg_origin；空列表拒绝全部会话。开启结果通知后，这些会话同时授权主动通知，最多128项。"},
+  "notifications_enabled": {"description": "接收任务结果主动通知", "type": "bool", "default": false, "hint": "显式开启后，仅轮询 allowed_sessions 中的完整 UMO，并通过 AstrBot 对应平台主动发送。Mori 也须开启渠道桥接；需具备平台主动发送权限。"}
+}

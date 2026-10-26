@@ -1,0 +1,816 @@
+{
+  "cases": [
+    {
+      "title": "S01E02",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "1x02",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "Season 1",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [],
+      "pack": false
+    },
+    {
+      "title": "第2季",
+      "level": "parity",
+      "seasons": [
+        2
+      ],
+      "episodes": [],
+      "pack": false
+    },
+    {
+      "title": "第12集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        12
+      ],
+      "pack": false
+    },
+    {
+      "title": "Episode 5",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        5
+      ],
+      "pack": false
+    },
+    {
+      "title": "S01",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [],
+      "pack": false
+    },
+    {
+      "title": "S01 Complete",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "S01E02E03",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2,
+        3
+      ],
+      "pack": true
+    },
+    {
+      "title": "1x02-03",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "S01E02.5",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": false
+    },
+    {
+      "title": "S01E02.5.1080p.mkv",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": false
+    },
+    {
+      "title": "S01E02bonus",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": false
+    },
+    {
+      "title": "第1季 第2-3集",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第1季 第2.5集",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [],
+      "pack": false
+    },
+    {
+      "title": "S01E02.1080p.mkv",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "1x02.1080p.mkv",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "S01E02 720p",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "第1季 第2集",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "第1季 第12集",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        12
+      ],
+      "pack": false
+    },
+    {
+      "title": "S01E01-E10",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        10
+      ],
+      "pack": true
+    },
+    {
+      "title": "S01E01-10",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "S01E01-S01E10",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        1,
+        10
+      ],
+      "pack": true
+    },
+    {
+      "title": "S01.E01-E10",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        10
+      ],
+      "pack": true
+    },
+    {
+      "title": "S01E01+10",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        1
+      ],
+      "pack": true
+    },
+    {
+      "title": "E01/E10",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        1,
+        10
+      ],
+      "pack": true
+    },
+    {
+      "title": "1x01-10",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第1-第10集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        10
+      ],
+      "pack": true
+    },
+    {
+      "title": "全三十集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "共三十集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第2集（不包含第3集）",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "第2集 不包含第3集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "第1-10集 不包含第3集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第01-12集完结",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        1,
+        12
+      ],
+      "pack": true
+    },
+    {
+      "title": "第1至12集 完结",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        1,
+        12
+      ],
+      "pack": true
+    },
+    {
+      "title": "[01-12Fin]",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        1,
+        12
+      ],
+      "pack": true
+    },
+    {
+      "title": "E03v2",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        3
+      ],
+      "pack": false
+    },
+    {
+      "title": "S01E03v2",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        3
+      ],
+      "pack": false
+    },
+    {
+      "title": "第12集v2",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        12
+      ],
+      "pack": false
+    },
+    {
+      "title": "电影 2023 CD1",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "Part2 1080p",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "Disc 2",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "DVD1",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "Dune Part Two 2021",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": false
+    },
+    {
+      "title": "Season II",
+      "level": "parity",
+      "seasons": [
+        2
+      ],
+      "episodes": [],
+      "pack": false
+    },
+    {
+      "title": "Show Season X 1080p",
+      "level": "parity",
+      "seasons": [
+        10
+      ],
+      "episodes": [],
+      "pack": false
+    },
+    {
+      "title": "【TV 01】",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        1
+      ],
+      "pack": false
+    },
+    {
+      "title": "[TV 12]",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        12
+      ],
+      "pack": false
+    },
+    {
+      "title": "第一至第十二集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        12
+      ],
+      "pack": true
+    },
+    {
+      "title": "第1至第十二集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        12
+      ],
+      "pack": true
+    },
+    {
+      "title": "第一至12集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第1至第12集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        12
+      ],
+      "pack": true
+    },
+    {
+      "title": "第1至12集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第2、3、4集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第2,3,4集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第2，3，4集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第2-4、6集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第2到4集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第2—4集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第2、3、4集 第5集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        5
+      ],
+      "pack": true
+    },
+    {
+      "title": "第5集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        5
+      ],
+      "pack": false
+    },
+    {
+      "title": "Season 1-2",
+      "level": "parity",
+      "seasons": [
+        1,
+        2
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "Seasons 1&2",
+      "level": "parity",
+      "seasons": [
+        1,
+        2
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "Seasons 1, 2",
+      "level": "parity",
+      "seasons": [
+        1,
+        2
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "S01-S02",
+      "level": "parity",
+      "seasons": [
+        1,
+        2
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "S01-02",
+      "level": "parity",
+      "seasons": [
+        1,
+        2
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第1-2季",
+      "level": "parity",
+      "seasons": [
+        1,
+        2
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第1至2季",
+      "level": "parity",
+      "seasons": [
+        1,
+        2
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第一、二季",
+      "level": "parity",
+      "seasons": [
+        1,
+        2
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第１－２季",
+      "level": "parity",
+      "seasons": [
+        1,
+        2
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "Season 2-3",
+      "level": "parity",
+      "seasons": [
+        2,
+        3
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "S01E02 03",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": true
+    },
+    {
+      "title": "E02 03",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [
+        2
+      ],
+      "pack": true
+    },
+    {
+      "title": "S01E02 03 1080p",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": true
+    },
+    {
+      "title": "S01E02 1080p",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "S01E02 2023",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "S01E02 5.1",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "S01E02 2ch",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "S01E02 x264",
+      "level": "parity",
+      "seasons": [
+        1
+      ],
+      "episodes": [
+        2
+      ],
+      "pack": false
+    },
+    {
+      "title": "第１－２季",
+      "level": "parity",
+      "seasons": [
+        1,
+        2
+      ],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第２—４集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "全30集",
+      "level": "parity",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "title": "第二季 全30集",
+      "level": "parity",
+      "seasons": [
+        2
+      ],
+      "episodes": [],
+      "pack": true
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "本季全12集，已完结",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "text": "全12集",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "text": "共24集",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "text": "共二十四集",
+      "seasons": [],
+      "episodes": [],
+      "pack": true
+    },
+    {
+      "text": "第1-12集已完结",
+      "seasons": [],
+      "episodes": [
+        1,
+        12
+      ],
+      "pack": true
+    },
+    {
+      "text": "第1至12集完结",
+      "seasons": [],
+      "episodes": [
+        1,
+        12
+      ],
+      "pack": true
+    },
+    {
+      "text": "讲述三位科学家的故事",
+      "seasons": [],
+      "episodes": [],
+      "pack": false
+    }
+  ]
+}

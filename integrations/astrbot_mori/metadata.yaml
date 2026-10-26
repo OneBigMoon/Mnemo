@@ -1,0 +1,7 @@
+name: astrbot_plugin_mori
+display_name: Mori 媒体助手
+desc: 将授权的 QQ、微信和飞书会话通过签名桥接接入 Mori 搜索、订阅与下载任务。
+version: v0.2.0
+author: Mori contributors
+repo: ""
+astrbot_version: ">=4.0.0"

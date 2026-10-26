@@ -1,0 +1,39 @@
+{
+  "name": "mnemo-media-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "tsx watch server/index.ts",
+    "dev:web": "vite --host 127.0.0.1",
+    "build": "node scripts/build_rust.mjs && tsc --noEmit && vite build",
+    "prestart": "node scripts/build_rust.mjs --if-missing",
+    "start": "tsx server/index.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "pretest": "node scripts/build_rust.mjs",
+    "check": "tsc --noEmit",
+    "verify:season": "node scripts/verify_season_matching.mjs",
+    "local": "node scripts/local.mjs",
+    "local:test": "node --test scripts/tests/local.test.mjs"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "hls.js": "^1.5.20",
+    "lucide-react": "^0.468.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.4.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0",
+    "vite": "^6.3.0"
+  }
+}

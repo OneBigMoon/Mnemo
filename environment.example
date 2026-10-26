@@ -1,0 +1,10 @@
+# Copy to .env for Docker Compose. Do not commit real secrets.
+# Mnemo（2026-10-25 由 Lucerna 更名）。旧名 MORI_* 仍被读取：新名优先，
+# 已有 .env 不必立刻改；两条都写时以 MNEMO_* 为准。
+MNEMO_SETUP_TOKEN=replace-with-your-own-long-random-setup-token
+MNEMO_BIND_ADDRESS=127.0.0.1
+# Folder must be writable by UID 1000 in the container.
+MNEMO_DOWNLOAD_PATH=./downloads
+# For HTTPS reverse proxy / custom NAS hostname:
+MNEMO_COOKIE_SECURE=0
+MNEMO_PUBLIC_ORIGIN=

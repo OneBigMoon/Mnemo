@@ -1,0 +1,16 @@
+node_modules
+dist
+data
+downloads
+artifacts
+.env*
+.git
+*.log
+.playwright-cli
+output
+releases
+**/__pycache__
+**/*.pyc
+.venv*
+bin
+**/target
